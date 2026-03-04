@@ -6,6 +6,8 @@ QE Defect AI is a desktop application that uses machine learning to help quality
 
 ***NOTE: SEE THE "PROJECT ARCHITECTURE" DOC FILE FOR A MORE DETAILED GUIDE***
 
+Installer Setup: https://mega.nz/file/OEc1magb#KWCCcdYsOd6Le3loCbuQoQ8GGtgsRHGvkB4ti8vyjuo 
+
  Features:
 * Semantic Similarity Search - Finds historically similar defects using sentence-transformers AI
 * Recurrence Detection - Automatically flags recurring issues based on customizable thresholds
