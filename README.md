@@ -19,6 +19,10 @@ QE Defect AI is a desktop application that uses machine learning to help quality
     * Run the installer and follow the prompts
     * Launch from Start Menu
     * Note: Do move the data folder (that will contain the csv file of defect info) from the programs file to what readable folder location you want  (i.e. Documents).
+    <img width="152" height="152" alt="image" src="https://github.com/user-attachments/assets/fadbd8dd-257b-4845-af43-9f87b6c0e2b8" />
+* <img width="737" height="386" alt="image" src="https://github.com/user-attachments/assets/a59782b6-a83a-40fe-b059-6d71e37a0a54" />
+
+
     * Option 2: Run from Source
       * Python 3.8 or higher
       * pip package manager
